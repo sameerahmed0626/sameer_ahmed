@@ -1,0 +1,47 @@
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    color:black;
+    text-align: center;
+    padding:10px;
+    text-decoration: none;
+    border: 1px solid grey;
+    background-color:grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+  }
+  
+  li a:hover {
+    background-color:orange;
+  }
+  img{
+    margin: 15%;
+    border-radius: 150px;
+  }
+  p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:large;
+
+  }
+  button{
+    padding: 06px;
+    float:left;
+    background-color:black;
+    color:white;
+    border-radius:25%;
+    text-align: center;
+    border: 1px solid grey;
+  }
+  button:hover{
+    background-color:grey;
+  }
